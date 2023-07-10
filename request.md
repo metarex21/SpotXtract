@@ -21,4 +21,4 @@ Once your data is ready to download, you'll get an email with a link to download
 Place the ```StreamingHistory<x>.json``` files in the json folder(created after cloning this repo). Replace/Delete previously stored json files if necessary.
 
 ### **6. Ready to Go!** <br>
-**Congratulations**! You can now view your annual listening history, play count, and much more.
+**Congratulations**! You can now view your annual listening history, play count, and much more. Click [here](./main.ipynb) to proceed
