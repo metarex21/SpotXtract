@@ -49,3 +49,6 @@ Contributions are welcome! Please feel free to submit any pull requests or open 
 - [Pandas](https://pandas.pydata.org/)
 - [nbformat](https://nbformat.readthedocs.io/)
 
+## Authors
+ - [Byomokesh Senapati](https://github.com/metarex21)
+
