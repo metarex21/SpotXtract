@@ -1,7 +1,7 @@
 # SpotXtract: The Ultimate Spotify Streaming History Extractor
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-<a href="https://www.kaggle.com/code/byomokeshsenapati/spotify-song-attributes">
+<a href="https://www.kaggle.com/byomokeshsenapati/spotify-song-attributes">
 <img alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"> </a>
 
 ## Description
